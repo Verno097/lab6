@@ -16,3 +16,20 @@ Push ветки feature1 на GitHub
 Проект в Xcode
 <img width="104" height="85" alt="Снимок экрана 2026-04-24 в 12 13 33" src="https://github.com/user-attachments/assets/939ee8cb-8467-4213-8a94-e1eeda1a6fba" />
 Приложение
+
+(Часть 2)
+
+<img width="235" height="117" alt="Снимок экрана 2026-04-24 в 12 24 57" src="https://github.com/user-attachments/assets/07fcd292-2369-434b-9cf0-0c6125d1c6f0" />
+Терминал-создание папки и переход
+<img width="275" height="123" alt="Снимок экрана 2026-04-24 в 12 25 03" src="https://github.com/user-attachments/assets/f62ba99f-1e77-43d9-9b8c-0dbad38e8bcf" />
+Терминал-создание репозитория и первый push
+<img width="272" height="129" alt="Снимок экрана 2026-04-24 в 12 27 04" src="https://github.com/user-attachments/assets/eed6a23f-6716-4e7f-9946-f27294e221ec" />
+README.md
+<img width="250" height="150" alt="Снимок экрана 2026-04-24 в 12 27 15" src="https://github.com/user-attachments/assets/d40e8421-ca4d-433e-9e33-c21f63f83b52" />
+.gitignore и push в feature1
+<img width="309" height="159" alt="Снимок экрана 2026-04-24 в 12 27 22" src="https://github.com/user-attachments/assets/bb59a852-d166-4e42-a3de-149eaa006dcb" />
+Проект в Xcode
+<img width="269" height="151" alt="Снимок экрана 2026-04-24 в 12 27 28" src="https://github.com/user-attachments/assets/838a45f6-ae91-47f4-953f-3fb0a7222321" />
+Код View controller.swift
+<img width="96" height="118" alt="Снимок экрана 2026-04-24 в 12 27 35" src="https://github.com/user-attachments/assets/de5d7159-dd47-4dd9-9521-c50f7830c06e" />
+Приложение
